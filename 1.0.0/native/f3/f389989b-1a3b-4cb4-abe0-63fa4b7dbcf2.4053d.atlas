@@ -1,0 +1,181 @@
+
+bigwin.jpg
+size: 1993,986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunzhoulizitexiao_unpack/bbg_particle_00
+  rotate: true
+  xy: 1366, 661
+  size: 324, 159
+  orig: 324, 239
+  offset: 0, 4
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_01
+  rotate: false
+  xy: 584, 2
+  size: 324, 147
+  orig: 324, 239
+  offset: 0, 4
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_02
+  rotate: false
+  xy: 910, 4
+  size: 324, 145
+  orig: 324, 239
+  offset: 0, 3
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_03
+  rotate: false
+  xy: 1236, 1
+  size: 324, 149
+  orig: 324, 239
+  offset: 0, 3
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_04
+  rotate: true
+  xy: 1527, 661
+  size: 324, 155
+  orig: 324, 239
+  offset: 0, 4
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_05
+  rotate: false
+  xy: 1610, 307
+  size: 322, 163
+  orig: 324, 239
+  offset: 0, 3
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_06
+  rotate: true
+  xy: 942, 151
+  size: 324, 171
+  orig: 324, 239
+  offset: 0, 1
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_07
+  rotate: true
+  xy: 1684, 661
+  size: 324, 153
+  orig: 324, 239
+  offset: 0, 5
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_08
+  rotate: true
+  xy: 1447, 152
+  size: 324, 161
+  orig: 324, 239
+  offset: 0, 2
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_09
+  rotate: true
+  xy: 1115, 152
+  size: 324, 165
+  orig: 324, 239
+  offset: 0, 3
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_10
+  rotate: true
+  xy: 1024, 661
+  size: 324, 171
+  orig: 324, 239
+  offset: 0, 4
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_11
+  rotate: true
+  xy: 765, 151
+  size: 324, 175
+  orig: 324, 239
+  offset: 0, 5
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_12
+  rotate: false
+  xy: 1024, 478
+  size: 323, 181
+  orig: 324, 239
+  offset: 1, 5
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_13
+  rotate: false
+  xy: 1673, 472
+  size: 319, 187
+  orig: 324, 239
+  offset: 5, 6
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_14
+  rotate: true
+  xy: 1, 90
+  size: 324, 197
+  orig: 324, 239
+  offset: 0, 2
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_15
+  rotate: true
+  xy: 1197, 661
+  size: 324, 167
+  orig: 324, 239
+  offset: 0, 5
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_16
+  rotate: true
+  xy: 584, 151
+  size: 324, 179
+  orig: 324, 239
+  offset: 0, 3
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_17
+  rotate: true
+  xy: 399, 90
+  size: 324, 183
+  orig: 324, 239
+  offset: 0, 7
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_18
+  rotate: true
+  xy: 200, 90
+  size: 324, 197
+  orig: 324, 239
+  offset: 0, 1
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_19
+  rotate: false
+  xy: 1349, 478
+  size: 322, 181
+  orig: 324, 239
+  offset: 0, 4
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_20
+  rotate: false
+  xy: 1610, 144
+  size: 322, 161
+  orig: 324, 239
+  offset: 0, 3
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_21
+  rotate: true
+  xy: 1282, 152
+  size: 324, 163
+  orig: 324, 239
+  offset: 0, 7
+  index: -1
+gunzhoulizitexiao_unpack/bbg_particle_22
+  rotate: true
+  xy: 1839, 661
+  size: 324, 135
+  orig: 324, 239
+  offset: 0, 4
+  index: -1
+tw_ray_a
+  rotate: false
+  xy: 1, 416
+  size: 540, 569
+  orig: 540, 569
+  offset: 0, 0
+  index: -1
+tw_ray_b
+  rotate: true
+  xy: 543, 477
+  size: 508, 479
+  orig: 508, 479
+  offset: 0, 0
+  index: -1

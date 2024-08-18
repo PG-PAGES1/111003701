@@ -1,0 +1,83 @@
+
+ui_sword.png
+size: 982,1744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Levels 1
+  rotate: false
+  xy: 2, 1217
+  size: 767, 205
+  orig: 767, 205
+  offset: 0, 0
+  index: -1
+Levels 2
+  rotate: false
+  xy: 2, 341
+  size: 182, 695
+  orig: 182, 695
+  offset: 0, 0
+  index: -1
+Levels 4
+  rotate: false
+  xy: 2, 1108
+  size: 194, 107
+  orig: 194, 107
+  offset: 0, 0
+  index: -1
+Levels 5
+  rotate: false
+  xy: 917, 1361
+  size: 63, 381
+  orig: 63, 381
+  offset: 0, 0
+  index: -1
+Levels 6
+  rotate: false
+  xy: 771, 1038
+  size: 202, 321
+  orig: 202, 321
+  offset: 0, 0
+  index: -1
+Levels-6x
+  rotate: false
+  xy: 2, 18
+  size: 202, 321
+  orig: 202, 321
+  offset: 0, 0
+  index: -1
+fx_slash01
+  rotate: false
+  xy: 186, 520
+  size: 375, 516
+  orig: 375, 516
+  offset: 0, 0
+  index: -1
+fx_slash02
+  rotate: false
+  xy: 206, 2
+  size: 375, 516
+  orig: 375, 516
+  offset: 0, 0
+  index: -1
+fx_slash03
+  rotate: false
+  xy: 563, 520
+  size: 375, 516
+  orig: 375, 516
+  offset: 0, 0
+  index: -1
+fx_slash04
+  rotate: false
+  xy: 583, 2
+  size: 375, 516
+  orig: 375, 516
+  offset: 0, 0
+  index: -1
+ui_sword
+  rotate: false
+  xy: 2, 1424
+  size: 913, 318
+  orig: 913, 318
+  offset: 0, 0
+  index: -1

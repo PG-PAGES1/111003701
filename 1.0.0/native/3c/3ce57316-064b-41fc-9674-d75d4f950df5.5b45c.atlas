@@ -1,0 +1,1040 @@
+
+bg_witch.png
+size: 904,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_guide_fade
+  rotate: false
+  xy: 493, 785
+  size: 284, 246
+  orig: 284, 246
+  offset: 0, 0
+  index: -1
+bns_gem
+  rotate: false
+  xy: 804, 459
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+fx_att
+  rotate: false
+  xy: 447, 21
+  size: 43, 300
+  orig: 43, 300
+  offset: 0, 0
+  index: -1
+fx_back01
+  rotate: true
+  xy: 646, 182
+  size: 193, 59
+  orig: 193, 59
+  offset: 0, 0
+  index: -1
+fx_back02
+  rotate: true
+  xy: 608, 9
+  size: 167, 29
+  orig: 167, 29
+  offset: 0, 0
+  index: -1
+fx_back03
+  rotate: false
+  xy: 639, 16
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1
+fx_bloom
+  rotate: false
+  xy: 274, 615
+  size: 217, 416
+  orig: 217, 416
+  offset: 0, 0
+  index: -1
+fx_blur
+  rotate: false
+  xy: 762, 8
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_circle
+  rotate: false
+  xy: 639, 46
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+fx_circle2
+  rotate: false
+  xy: 762, 95
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+fx_cloud
+  rotate: false
+  xy: 809, 542
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+fx_front01
+  rotate: false
+  xy: 707, 176
+  size: 41, 199
+  orig: 41, 199
+  offset: 0, 0
+  index: -1
+fx_front02
+  rotate: true
+  xy: 750, 225
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+fx_front03
+  rotate: true
+  xy: 1, 4
+  size: 49, 194
+  orig: 49, 194
+  offset: 0, 0
+  index: -1
+fx_lines
+  rotate: false
+  xy: 1, 55
+  size: 271, 976
+  orig: 271, 976
+  offset: 0, 0
+  index: -1
+fx_revive
+  rotate: true
+  xy: 458, 528
+  size: 71, 349
+  orig: 71, 349
+  offset: 0, 0
+  index: -1
+fx_tiny
+  rotate: false
+  xy: 274, 108
+  size: 171, 213
+  orig: 171, 213
+  offset: 0, 0
+  index: -1
+m_body_shdw
+  rotate: false
+  xy: 849, 13
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+m_eye_hl
+  rotate: true
+  xy: 458, 323
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+m_helm
+  rotate: true
+  xy: 274, 323
+  size: 290, 182
+  orig: 290, 182
+  offset: 0, 0
+  index: -1
+m_helm_b_L
+  rotate: false
+  xy: 779, 815
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+m_helm_b_R
+  rotate: false
+  xy: 245, 13
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+m_helm_sub_b_L
+  rotate: false
+  xy: 893, 669
+  size: 10, 41
+  orig: 10, 41
+  offset: 0, 0
+  index: -1
+m_helm_sub_b_R
+  rotate: false
+  xy: 804, 378
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+m_helmx
+  rotate: false
+  xy: 493, 601
+  size: 290, 182
+  orig: 290, 182
+  offset: 0, 0
+  index: -1
+m_leg
+  rotate: false
+  xy: 458, 338
+  size: 178, 188
+  orig: 178, 188
+  offset: 0, 0
+  index: -1
+m_teeth_bot
+  rotate: true
+  xy: 861, 468
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+m_teeth_top
+  rotate: true
+  xy: 426, 60
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+m_tongue
+  rotate: false
+  xy: 197, 12
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+witch_attack_00
+  rotate: false
+  xy: 804, 418
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+witch_attack_01
+  rotate: true
+  xy: 274, 1
+  size: 105, 150
+  orig: 105, 150
+  offset: 0, 0
+  index: -1
+witch_attack_02
+  rotate: false
+  xy: 492, 178
+  size: 152, 158
+  orig: 152, 158
+  offset: 0, 0
+  index: -1
+witch_attack_03
+  rotate: false
+  xy: 638, 377
+  size: 164, 149
+  orig: 164, 149
+  offset: 0, 0
+  index: -1
+witch_attack_04
+  rotate: true
+  xy: 779, 863
+  size: 168, 116
+  orig: 168, 116
+  offset: 0, 0
+  index: -1
+witch_attack_05
+  rotate: true
+  xy: 492, 6
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+witch_attack_06
+  rotate: true
+  xy: 809, 712
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+witch_attack_07
+  rotate: false
+  xy: 785, 634
+  size: 106, 76
+  orig: 106, 76
+  offset: 0, 0
+  index: -1
+witch_attack_08
+  rotate: false
+  xy: 809, 516
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+
+bg_witch2.png
+size: 523,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_raw/hurt_arm
+  rotate: false
+  xy: 186, 25
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+_raw/hurt_body
+  rotate: false
+  xy: 116, 13
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+_raw/hurt_face
+  rotate: true
+  xy: 426, 75
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+_raw/hurt_hair_b
+  rotate: true
+  xy: 471, 146
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+_raw/hurt_hair_f
+  rotate: true
+  xy: 426, 9
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+_raw/hurt_head
+  rotate: false
+  xy: 338, 133
+  size: 131, 136
+  orig: 131, 136
+  offset: 0, 0
+  index: -1
+_raw/hurt_neck
+  rotate: true
+  xy: 471, 178
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+_raw/hurt_teeth
+  rotate: true
+  xy: 220, 4
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+_raw/m_arm_L
+  rotate: true
+  xy: 1, 98
+  size: 171, 161
+  orig: 171, 161
+  offset: 0, 0
+  index: -1
+_raw/m_arm_R
+  rotate: true
+  xy: 263, 121
+  size: 148, 73
+  orig: 148, 73
+  offset: 0, 0
+  index: -1
+_raw/m_arm_Rb
+  rotate: true
+  xy: 301, 1
+  size: 118, 123
+  orig: 118, 123
+  offset: 0, 0
+  index: -1
+_raw/m_body
+  rotate: false
+  xy: 164, 108
+  size: 97, 161
+  orig: 97, 161
+  offset: 0, 0
+  index: -1
+_raw/m_face
+  rotate: false
+  xy: 1, 5
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+_raw/m_nose
+  rotate: true
+  xy: 186, 2
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+_raw/m_pupil
+  rotate: true
+  xy: 471, 222
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+
+bg_witch3.png
+size: 2002,1435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_seq/bg_witch_att_01
+  rotate: false
+  xy: 1147, 1264
+  size: 211, 170
+  orig: 211, 170
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_02
+  rotate: false
+  xy: 221, 544
+  size: 176, 168
+  orig: 176, 168
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_03
+  rotate: false
+  xy: 740, 730
+  size: 167, 169
+  orig: 167, 169
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_04
+  rotate: false
+  xy: 1087, 571
+  size: 155, 172
+  orig: 155, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_05
+  rotate: false
+  xy: 1244, 570
+  size: 148, 173
+  orig: 148, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_06
+  rotate: false
+  xy: 1244, 396
+  size: 148, 172
+  orig: 148, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_07
+  rotate: true
+  xy: 399, 228
+  size: 146, 172
+  orig: 146, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_08
+  rotate: true
+  xy: 1417, 944
+  size: 139, 172
+  orig: 139, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_09
+  rotate: false
+  xy: 748, 556
+  size: 163, 172
+  orig: 163, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_10
+  rotate: false
+  xy: 1, 912
+  size: 230, 171
+  orig: 230, 171
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_11
+  rotate: true
+  xy: 669, 1058
+  size: 201, 178
+  orig: 201, 178
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_12
+  rotate: false
+  xy: 1044, 1079
+  size: 191, 181
+  orig: 191, 181
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_13
+  rotate: false
+  xy: 849, 1080
+  size: 193, 180
+  orig: 193, 180
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_14
+  rotate: false
+  xy: 1237, 1078
+  size: 178, 184
+  orig: 178, 184
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_15
+  rotate: false
+  xy: 1417, 1085
+  size: 178, 186
+  orig: 178, 186
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_16
+  rotate: false
+  xy: 465, 1076
+  size: 202, 183
+  orig: 202, 183
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_17
+  rotate: false
+  xy: 1, 1251
+  size: 255, 183
+  orig: 255, 183
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_18
+  rotate: false
+  xy: 1597, 1095
+  size: 185, 176
+  orig: 185, 176
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_19
+  rotate: true
+  xy: 385, 730
+  size: 180, 176
+  orig: 180, 176
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_20
+  rotate: false
+  xy: 399, 552
+  size: 173, 176
+  orig: 173, 176
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_21
+  rotate: true
+  xy: 218, 1
+  size: 172, 175
+  orig: 172, 175
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_22
+  rotate: false
+  xy: 399, 376
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_23
+  rotate: false
+  xy: 574, 555
+  size: 172, 173
+  orig: 172, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_24
+  rotate: true
+  xy: 563, 730
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_25
+  rotate: false
+  xy: 1043, 902
+  size: 185, 175
+  orig: 185, 175
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_att_26
+  rotate: false
+  xy: 1, 211
+  size: 215, 173
+  orig: 215, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_00
+  rotate: false
+  xy: 1, 737
+  size: 218, 173
+  orig: 218, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_00x
+  rotate: false
+  xy: 1, 562
+  size: 218, 173
+  orig: 218, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_01
+  rotate: false
+  xy: 1, 1085
+  size: 242, 164
+  orig: 242, 164
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_01x
+  rotate: false
+  xy: 258, 1270
+  size: 242, 164
+  orig: 242, 164
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_02
+  rotate: false
+  xy: 1360, 1273
+  size: 214, 161
+  orig: 214, 161
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_02x
+  rotate: false
+  xy: 1576, 1273
+  size: 214, 161
+  orig: 214, 161
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_03
+  rotate: false
+  xy: 415, 919
+  size: 190, 155
+  orig: 190, 155
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_03x
+  rotate: false
+  xy: 607, 901
+  size: 190, 155
+  orig: 190, 155
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_04
+  rotate: false
+  xy: 1394, 298
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_04x
+  rotate: false
+  xy: 1279, 87
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_05
+  rotate: false
+  xy: 1725, 628
+  size: 133, 145
+  orig: 133, 145
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_05x
+  rotate: false
+  xy: 1741, 144
+  size: 133, 145
+  orig: 133, 145
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_06
+  rotate: false
+  xy: 909, 770
+  size: 128, 140
+  orig: 128, 140
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_06x
+  rotate: true
+  xy: 1430, 4
+  size: 128, 140
+  orig: 128, 140
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_07
+  rotate: false
+  xy: 1876, 153
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_07x
+  rotate: true
+  xy: 1572, 6
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_08
+  rotate: true
+  xy: 985, 119
+  size: 127, 135
+  orig: 127, 135
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_08x
+  rotate: true
+  xy: 1711, 4
+  size: 127, 135
+  orig: 127, 135
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_09
+  rotate: false
+  xy: 1860, 628
+  size: 133, 145
+  orig: 133, 145
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_09x
+  rotate: true
+  xy: 1848, 9
+  size: 133, 145
+  orig: 133, 145
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_10
+  rotate: false
+  xy: 1545, 290
+  size: 135, 161
+  orig: 135, 161
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_10x
+  rotate: false
+  xy: 985, 248
+  size: 135, 161
+  orig: 135, 161
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_11
+  rotate: false
+  xy: 567, 61
+  size: 136, 165
+  orig: 136, 165
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_11x
+  rotate: false
+  xy: 705, 61
+  size: 136, 165
+  orig: 136, 165
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_12
+  rotate: false
+  xy: 1542, 453
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_12x
+  rotate: false
+  xy: 1819, 292
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_13
+  rotate: false
+  xy: 1679, 459
+  size: 136, 166
+  orig: 136, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_13x
+  rotate: false
+  xy: 573, 228
+  size: 136, 166
+  orig: 136, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_14
+  rotate: false
+  xy: 1682, 291
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_14x
+  rotate: false
+  xy: 711, 228
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_15
+  rotate: false
+  xy: 1817, 460
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_15x
+  rotate: false
+  xy: 848, 228
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_16
+  rotate: false
+  xy: 1772, 775
+  size: 136, 166
+  orig: 136, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_16x
+  rotate: false
+  xy: 843, 60
+  size: 136, 166
+  orig: 136, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_17
+  rotate: false
+  xy: 1394, 452
+  size: 146, 167
+  orig: 146, 167
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_17x
+  rotate: true
+  xy: 1556, 627
+  size: 146, 167
+  orig: 146, 167
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_18
+  rotate: true
+  xy: 1416, 784
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_18x
+  rotate: true
+  xy: 1587, 775
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_19
+  rotate: true
+  xy: 913, 411
+  size: 158, 173
+  orig: 158, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_19x
+  rotate: true
+  xy: 1597, 935
+  size: 158, 173
+  orig: 158, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_20
+  rotate: true
+  xy: 1039, 745
+  size: 155, 175
+  orig: 155, 175
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_20x
+  rotate: true
+  xy: 1216, 745
+  size: 155, 175
+  orig: 155, 175
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_21
+  rotate: false
+  xy: 1230, 903
+  size: 184, 173
+  orig: 184, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_21x
+  rotate: true
+  xy: 218, 175
+  size: 184, 173
+  orig: 184, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_22
+  rotate: false
+  xy: 719, 1262
+  size: 212, 172
+  orig: 212, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_22x
+  rotate: false
+  xy: 933, 1262
+  size: 212, 172
+  orig: 212, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_23
+  rotate: false
+  xy: 1, 36
+  size: 215, 173
+  orig: 215, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_injured_23x
+  rotate: false
+  xy: 502, 1261
+  size: 215, 173
+  orig: 215, 173
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_01
+  rotate: false
+  xy: 1792, 1269
+  size: 209, 165
+  orig: 209, 165
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_02
+  rotate: false
+  xy: 1784, 1107
+  size: 202, 160
+  orig: 202, 160
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_03
+  rotate: false
+  xy: 1784, 943
+  size: 200, 162
+  orig: 200, 162
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_04
+  rotate: true
+  xy: 221, 714
+  size: 196, 162
+  orig: 196, 162
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_05
+  rotate: false
+  xy: 849, 912
+  size: 192, 166
+  orig: 192, 166
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_06
+  rotate: true
+  xy: 218, 361
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_07
+  rotate: false
+  xy: 913, 571
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_08
+  rotate: false
+  xy: 1088, 412
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_09
+  rotate: true
+  xy: 1122, 241
+  size: 153, 159
+  orig: 153, 159
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_10
+  rotate: true
+  xy: 1122, 88
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_11
+  rotate: false
+  xy: 1430, 134
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_12
+  rotate: false
+  xy: 1586, 133
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_13
+  rotate: false
+  xy: 731, 396
+  size: 152, 157
+  orig: 152, 157
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_14
+  rotate: false
+  xy: 574, 396
+  size: 155, 157
+  orig: 155, 157
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_15
+  rotate: false
+  xy: 1394, 621
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_16
+  rotate: false
+  xy: 395, 61
+  size: 170, 165
+  orig: 170, 165
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_17
+  rotate: true
+  xy: 245, 912
+  size: 182, 168
+  orig: 182, 168
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_18
+  rotate: false
+  xy: 258, 1096
+  size: 205, 172
+  orig: 205, 172
+  offset: 0, 0
+  index: -1
+_seq/bg_witch_lvl_19
+  rotate: false
+  xy: 1, 386
+  size: 215, 174
+  orig: 215, 174
+  offset: 0, 0
+  index: -1
